@@ -1,0 +1,49 @@
+div img.img-0{
+    width: 100%;
+    margin: -40px 10px 10px 10px;
+}
+h1.conocemas{
+    font-size: 50px;
+    color: blue;
+}
+h2.mision{
+    font-size: 50px;
+    color: red;
+    margin: 68px 360px 10px -330px;
+}
+p.pmision{
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px 10px 10px 70px ;
+}
+h3.vision{
+    font-size: 50px;
+    color: red;
+    margin: -70px -396px 10px 270px;
+}
+p.pvision{
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    margin: -320px -12px 31px 750px;
+}
+h4.historia{
+    font-size: 50px;
+    color: red;
+    margin: 170px 10px 10px 10px;
+    text-align: center;
+}
+p.phistoria{
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+}
+.frontispng{
+    width: 40%;
+    margin: 40px 10px 10px 10px;
+}
+.proyectopng{
+    width: 50%;
+    margin: 10px 10px 41px 30px;
+}

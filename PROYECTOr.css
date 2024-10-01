@@ -1,0 +1,35 @@
+main h1{
+    color: black;
+}
+.img-1 {
+    width: 20%;
+    margin-left:70px;
+    margin-top: 50px;
+    
+
+}
+.img-2{
+    width: 17%;
+    margin: 15px 100px -35px 205px;
+
+}
+.img-3{
+    width: 30%;
+    margin: 10px 20px -50px 20px;
+}
+.img-4{
+    width: 20%;
+    margin: 150px 50px 80px 70px;
+}
+.img-5{
+    width: 16%;
+    margin: 80px 50px 80px 155px;
+}
+.img-6{
+    width: 20%;
+    margin: 70px 60px 60px 130px;
+}
+.img-7{
+    width: 18%;
+    margin: 90px 50px 50px 80px;
+}
